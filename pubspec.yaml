@@ -1,0 +1,27 @@
+name: my_diary_app_vibrant
+description: My Diary - Vibrant Edition (Flutter + Hive)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  provider: ^6.1.2
+  google_fonts: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.3.3
+  hive_generator: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
