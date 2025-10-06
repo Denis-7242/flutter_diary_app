@@ -55,8 +55,8 @@ lib/
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Denis-7242/my_diary_app_vibrant.git
-cd my_diary_app_vibrant
+git clone https://github.com/Denis-7242/flutter_diary_app.git
+cd flutter_diary_app
 ```
 
 ---
