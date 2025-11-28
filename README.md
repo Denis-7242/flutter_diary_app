@@ -99,5 +99,5 @@ The UI uses Material 3 components with gradient accent colors.
 Denis Murithi  
 👤 GitHub: [@Denis-7242](https://github.com/Denis-7242)
 
-🗓️ Built with Flutter & ❤️ by Denis in 2025
+🗓️ Built with Flutter & ❤️ by Denis in 2025 for the flutter community
 
